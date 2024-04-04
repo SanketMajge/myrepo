@@ -1,0 +1,4 @@
+100,sanket pawar ,50000,aurangbad
+200, sanket patil,45000,pune
+300, sachin pawar ,50000, mumbai
+400 , sachin patil,45000,pune
