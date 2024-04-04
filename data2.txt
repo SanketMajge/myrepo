@@ -1,0 +1,3 @@
+pune , manager, 45000,head1
+mumbai,hr,45230,department
+aurangabad,78000,hotelstar
